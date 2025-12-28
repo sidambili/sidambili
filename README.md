@@ -1,75 +1,90 @@
-Hey, I’m Sid.
+<h2>Hey, I’m Sid 👋</h2>
 
-I build AI systems for real businesses. Mostly voice agents, internal tools, and the infrastructure behind them.
+<p>
+I build AI systems for real businesses.<br/>
+Mostly voice agents, internal tools, and the infrastructure behind them.
+</p>
 
-Right now my focus is making sure these systems work in the real world. Messy data, edge cases, people talking over each other, bad inputs, long calls, and teams that don’t want to think about “AI” at all.
+<hr/>
 
----
+<h3>🚗 Uobo</h3>
 
-## What I’m working on
+<p>
+My main project.
+</p>
 
-### Uobo
-This is my main project.
+<ul>
+  <li>AI voice agents used by car dealerships</li>
+  <li>Live call handling and structured data capture</li>
+  <li>Building a Service Ops platform to improve service workflows and reporting</li>
+</ul>
 
-Uobo builds AI voice agents used by car dealerships today. The agents handle real calls, capture structured information, and plug into dealership workflows.
-
-We’re also building a Service Ops platform on top of this. The goal is simple:  
-make service workflows clearer, reduce back and forth, and turn conversations into usable reporting for advisors and managers.
-
+<p>
 This is where most of my time goes.
+</p>
 
----
+<hr/>
 
-### Syntreon
-Syntreon is the underlying platform behind Uobo.
+<h3>🧠 Syntreon</h3>
 
-It handles the less visible but critical stuff:
-- call ingestion and processing  
-- evaluations and scoring  
-- multi-tenant data separation  
-- analytics and reporting layers  
+<p>
+The platform behind Uobo.
+</p>
 
-Think of it as the infrastructure and intelligence layer that products like Uobo sit on top of.
+<ul>
+  <li>Call ingestion and processing</li>
+  <li>AI evaluations and scoring</li>
+  <li>Multi-tenant data separation</li>
+  <li>Analytics and reporting layers</li>
+</ul>
 
----
+<p>
+It handles the infrastructure and intelligence so products don’t have to.
+</p>
 
-## Open source / side projects
+<hr/>
 
-### PromptManager
+<h3>🛠 Open Source</h3>
+
+<h4>PromptManager</h4>
+
+<p>
 An open-source prompt management tool I started as an internal project.
+</p>
 
-I was tired of prompts living in random docs and Notion pages. This treats prompts more like code:
-- version history  
-- forking  
-- reusable variables  
-- private or public libraries  
+<ul>
+  <li>Versioned prompts</li>
+  <li>Forking and reuse</li>
+  <li>Variables for automation workflows</li>
+  <li>Private or public libraries</li>
+</ul>
 
-It’s intentionally simple and self-hostable. Built for builders who actually write and reuse prompts.
+<p>
+Built for people who actually write and reuse prompts.
+</p>
 
----
+<hr/>
 
-## What I’m learning right now
+<h3>📚 Learning</h3>
 
-- AI evaluations and scoring (what “good” actually means)
-- system design for multi-tenant products
-- Kubernetes basics
-- how to build and test AI systems without burning compute
-- making AI outputs more predictable and debuggable
+<ul>
+  <li>AI evaluations and scoring</li>
+  <li>Multi-tenant system design</li>
+  <li>Kubernetes fundamentals</li>
+  <li>Building and testing AI systems with low compute</li>
+</ul>
 
----
+<hr/>
 
-## How I like to build
+<h3>🧩 How I like to build</h3>
 
-I’m not chasing hype.
+<ul>
+  <li>Things that work at 2am</li>
+  <li>Clear data boundaries</li>
+  <li>Boring, readable systems</li>
+  <li>Ship → learn → improve</li>
+</ul>
 
-I care more about:
-- things working at 2am  
-- clear data boundaries  
-- boring, readable systems  
-- shipping something useful, then improving it  
-
-If a system can’t be explained simply, it’s probably not ready yet.
-
----
-
-Always building. Always breaking things and fixing them.
+<p>
+If a system can’t be explained simply, it’s probably not ready.
+</p>
