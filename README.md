@@ -1,8 +1,9 @@
-<h2>Hey, I’m Sid 👋</h2>
+<h2>Hey, I’m Sid</h2>
 
 <p>
-I build AI systems for real businesses.<br/>
-Mostly voice agents, internal tools, and the infrastructure behind them.
+I work on AI voice agents and internal software used by car dealerships.<br/>
+Most of what I build sits behind the scenes and deals with real workflows, real calls, and real edge cases. <br/>
+Also working on my first open source project for a prompt management tool.
 </p>
 
 <hr/>
@@ -14,8 +15,8 @@ My main project.
 </p>
 
 <ul>
-  <li>AI voice agents used by car dealerships</li>
-  <li>Live call handling and structured data capture</li>
+  <li>AI voice agents currently used by car dealerships</li>
+  <li>Handles inbound calls and captures structured service information</li>
   <li>Building a Service Ops platform to improve service workflows and reporting</li>
 </ul>
 
@@ -39,12 +40,12 @@ The platform behind Uobo.
 </ul>
 
 <p>
-It handles the infrastructure and intelligence so products don’t have to.
+It handles the infrastructure so products like Uobo can stay focused on the user.
 </p>
 
 <hr/>
 
-<h3>🛠 Open Source</h3>
+<h3>🛠 Open source</h3>
 
 <h4>PromptManager</h4>
 
@@ -69,7 +70,7 @@ Built for people who actually write and reuse prompts.
 
 <ul>
   <li>AI evaluations and scoring</li>
-  <li>Multi-tenant system design</li>
+  <li>System design for multi-tenant products</li>
   <li>Kubernetes fundamentals</li>
   <li>Building and testing AI systems with low compute</li>
 </ul>
@@ -79,12 +80,12 @@ Built for people who actually write and reuse prompts.
 <h3>🧩 How I like to build</h3>
 
 <ul>
-  <li>Things that work at 2am</li>
+  <li>Systems that work at odd hours without babysitting</li>
   <li>Clear data boundaries</li>
-  <li>Boring, readable systems</li>
-  <li>Ship → learn → improve</li>
+  <li>Readable, boring code</li>
+  <li>Ship first, then improve</li>
 </ul>
 
 <p>
-If a system can’t be explained simply, it’s probably not ready.
+If something can’t be explained simply, it probably isn’t ready.
 </p>
