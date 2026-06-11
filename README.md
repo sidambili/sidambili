@@ -1,9 +1,10 @@
 <h2>Hey, I’m Sid</h2>
 
 <p>
-I work on AI voice agents and internal software used by car dealerships.<br/>
-Most of what I build sits behind the scenes and deals with real workflows, real calls, and real edge cases. <br/>
-Also working on my first open source project for a prompt management tool.
+I'm a co-founder at Uobo. <br/>
+I work on agentic operations and internal software used by automotive industry.<br/>
+Most of what I build sits behind the scenes and deals with real workflows, real interaction, and real edge cases. <br/>
+Also working on few open source projects on the side to help me with my day to day workflows.
 </p>
 
 <hr/>
@@ -15,8 +16,7 @@ My main project.
 </p>
 
 <ul>
-  <li>AI voice agents currently used by car dealerships</li>
-  <li>Handles inbound calls and captures structured service information</li>
+  <li>Large scale agents, workflows, automations currently used by car dealerships</li>
   <li>Building a Service Ops platform to improve service workflows and reporting</li>
 </ul>
 
@@ -29,7 +29,7 @@ This is where most of my time goes.
 <h3>🧠 Syntreon</h3>
 
 <p>
-The platform behind Uobo.
+The platform for Voice AI operations
 </p>
 
 <ul>
@@ -40,7 +40,7 @@ The platform behind Uobo.
 </ul>
 
 <p>
-It handles the infrastructure so products like Uobo can stay focused on the user.
+It handles the infrastructure so teams can stay focused on the user and agent experience.
 </p>
 
 <hr/>
@@ -62,6 +62,22 @@ An open-source prompt management tool I started as an internal project.
 
 <p>
 Built for people who actually write and reuse prompts.
+</p>
+
+<h4>Moonga</h4>
+<p>
+An open-source ops tool I built to stop doing the same manual work before every ticket.
+</p>
+<ul>
+  <li>Connects to Linear — when an issue comes in, it scans for duplicates, pulls repo context from GitHub, and drafts an implementation plan</li>
+  <li>A second agent reviews the draft specifically for overengineering before it reaches you</li>
+  <li>Nothing posts back to Linear without approval</li>
+  <li>Self-hosted, works with OpenRouter — bring any model</li>
+  <li>Full agent traces and token/cost tracking per session</li>
+  <li>Supports multiple repos and Linear workspaces — built for managing more than one product</li>
+</ul>
+<p>
+Same pipeline handles incident triage from Sentry, Better Stack, GitHub, and Slack.
 </p>
 
 <hr/>
