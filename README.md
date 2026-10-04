@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Sid Ambili. Building AI agents for automotive operations." width="100%" />
+<img src="assets/header.svg" alt="Sid Ambili. Software for automotive operations." width="100%" />
 
 <br />
 
@@ -15,11 +15,12 @@
 
 ```text
 sid@london:~$ whoami
-Sid Ambili. Founder of Syntreon. London, Ontario.
+Sid Ambili. Technical co-founder at Uobo. Founder of Syntreon.
+London, Ontario.
 
 sid@london:~$ cat focus.txt
-Agents that do real operational work: answer the phone, capture the
-details, hand the right context to the right person. I start with the
+Software for automotive businesses: voice agents, agentic chat,
+internal communication and CRM for dealerships. I start with the
 business workflow, then build the software around it.
 ```
 
@@ -29,14 +30,14 @@ business workflow, then build the software around it.
 
 | Project | What it does | Status |
 | :-- | :-- | :-- |
-| **[Uobo](https://uobo.com.au)** | AI agents for automotive operations. Voice and messaging agents that handle inbound calls, capture leads, and keep service and sales teams in the loop. | Active |
+| **[Uobo](https://uobo.com.au)** | Software for automotive operations. AI voice agents, agentic chat, internal communication for dealership staff, and CRM for dealerships. Voice is one system among several. | Active |
 | **[Voxfra](https://voxfra.io)** | Infrastructure for running voice AI at scale. Multi-tenant, built for agencies and operators managing many clients and locations. | Building |
 
-Both are commercial products built under [Syntreon](https://syntreon.io).
+I'm the technical co-founder of Uobo, and the founder of [Syntreon](https://syntreon.io), the software company behind Voxfra.
 
 <br />
 
-<img src="assets/flow.svg" alt="A call, end to end: inbound call, voice agent, lead record, ops platform, staff follow-up." width="100%" />
+<img src="assets/systems.svg" alt="One platform, many systems: voice agents, agentic chat, staff comms and dealership CRM." width="100%" />
 
 <br />
 
